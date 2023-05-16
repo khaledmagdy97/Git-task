@@ -2,6 +2,6 @@
 2nd line
 3rd line
 4rd line
-5rd line + conflict one
+5rd newLine + conflict one
 added in test
 test branch is here @@@ + this is conflict line right here 
