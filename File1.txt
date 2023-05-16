@@ -4,4 +4,4 @@
 4rd line
 5rd line
 
-test branch is here @@@
+test branch is here @@@ + this is conflict line right here 
